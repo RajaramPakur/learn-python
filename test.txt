@@ -1,0 +1,21 @@
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+abcdefghijklmnopqrstuvwxyz
+
+1234567890
+Mr. Rajaram Pakur
+
+Hello Doctor
+Ha Haha
+
+MetaCharacters (Need to be escaped):
+. ^ $ # @ ! & * ( ) [ ] { } ? /
+
+rajarampakur.com
+332-555-1111
+
+123.456.1234
+123*256*1234
+
+
