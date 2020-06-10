@@ -86,3 +86,4 @@ test_animals = AnimalTesting()
 
 test_animals.get_type(cat)
 test_animals.get_type(spot)
+
